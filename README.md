@@ -1,4 +1,4 @@
-<h1 align="center">前端社招招面试题库</h1>
+<h1 align="center">前端社招面试题库</h1>
 
 <p align='center'> 
   <a href='https://github.com/FEGuideTeam/social/network/members'><img src='https://img.shields.io/github/forks/FEGuideTeam/social.svg'></a>
